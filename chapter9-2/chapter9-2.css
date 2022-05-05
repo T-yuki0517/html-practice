@@ -64,3 +64,26 @@ footer {
   height: 50px;
   background-color: #aaaaaa;
 }
+
+@media screen and (max-width: 768px) {
+  header {
+    width: 100%;
+    margin: 0;
+  }
+  
+  main {
+    width: 100%;
+    display: block;
+  }
+  
+  .step-box {
+    width: 90%;
+    margin:  20px;
+  }
+  
+  footer {
+    width: 100%;
+    margin: 0;
+  }
+  
+}
