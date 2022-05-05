@@ -21,6 +21,11 @@ header {
   position: relative;
 }
 
+.social i {
+  display: inline-block;
+  margin-left: 20px;
+}
+
 .social {
   display: inline-block;
   margin-left: 20px;
